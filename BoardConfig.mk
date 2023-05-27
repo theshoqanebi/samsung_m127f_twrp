@@ -125,7 +125,7 @@ PLATFORM_VERSION := 16.1.0
 
 # MTP Configuration
 TW_MTP_DEVICE := TheShoqnebi
-TW_EXCLUDE_MTP := true
+TW_EXCLUDE_MTP := false
 
 # Exclude Features
 
